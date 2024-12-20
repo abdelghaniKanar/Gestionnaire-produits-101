@@ -3,7 +3,6 @@ const readline = require("readline");
 // Variables globales
 // let quitter = false;
 
-//
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
