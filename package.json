@@ -1,0 +1,11 @@
+{
+  "name": "brief-2",
+  "version": "1.0.0",
+  "description": "Une application Node.js simple pour la gestion des stocks de produits. Les utilisateurs peuvent ajouter, consulter, mettre à jour et supprimer des produits, avec les données stockées dans un fichier JSON. L'application utilise des opérations CRUD de base et les principes de la programmation orientée objet en JavaScript.",
+  "main": "panneauDeControle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
