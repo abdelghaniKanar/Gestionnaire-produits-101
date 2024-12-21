@@ -1,0 +1,14 @@
+[
+    {
+        "nom": "A",
+        "description": "A",
+        "quantite": "1",
+        "prix": "1"
+    },
+    {
+        "nom": "B",
+        "description": "B",
+        "quantite": "2",
+        "prix": "2"
+    }
+]

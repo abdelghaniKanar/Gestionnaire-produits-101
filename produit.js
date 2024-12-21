@@ -3,7 +3,7 @@ class Produit {
   constructor(nom, description, quantité, prix) {
     this.nom = nom;
     this.description = description;
-    this.quantité = quantité;
+    this.quantite = quantité;
     this.prix = prix;
   }
 }

@@ -1,4 +1,5 @@
 const readline = require("readline");
+const Support = require("./support");
 
 // Variables globales
 // let quitter = false;
@@ -23,6 +24,7 @@ function panneauDeControle() {
       case "1":
         // console.log("Veuillez ajouter les détails du produit :");
         console.log("Ajouter un nouveau produit :");
+        Support.ajouterProduit();
         panneauDeControle();
         break;
       case "2":
